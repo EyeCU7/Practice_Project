@@ -3,3 +3,8 @@ third test  (in github.com via editor)
 second test (in git bash via vim)
 
 first test  (from Sublime)
+
+
+*Note: 
+	1 ) use [git pull] to update the files in the current repo if they have been altered
+	2 ) use [git push -u origin master] to make all the committed files "pushed" to live on github.com
