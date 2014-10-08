@@ -1,3 +1,5 @@
-second test
+third test  (in github.com via editor)
 
-temp file for testing
+second test (in git bash via vim)
+
+first test  (from Sublime)
